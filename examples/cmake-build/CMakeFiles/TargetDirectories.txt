@@ -1,0 +1,6 @@
+/Users/gongzian/src/CCiA/tests/cmake-build/CMakeFiles/multi-thread-hello.dir
+/Users/gongzian/src/CCiA/tests/cmake-build/CMakeFiles/multi-thread-hello-with-container.dir
+/Users/gongzian/src/CCiA/tests/cmake-build/CMakeFiles/get-thread-id.dir
+/Users/gongzian/src/CCiA/tests/cmake-build/CMakeFiles/std-mutex.dir
+/Users/gongzian/src/CCiA/tests/cmake-build/CMakeFiles/edit_cache.dir
+/Users/gongzian/src/CCiA/tests/cmake-build/CMakeFiles/rebuild_cache.dir
